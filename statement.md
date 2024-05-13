@@ -67,6 +67,7 @@ There we go. We have two programs for the Caesar and Vigenère Ciphers.
 If you'd like to read up some information on the Ciphers, I have added some links below:
 
 https://en.wikipedia.org/wiki/Caesar_cipher
+
 https://en.wikipedia.org/wiki/Vigenère_cipher
 
 Feel free to use this code.
