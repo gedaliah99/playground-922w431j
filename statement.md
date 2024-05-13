@@ -7,7 +7,7 @@ a certain number of places down or up the alphabet. For example, with a shift of
 B would become E, and so on.
 
 Let's write the program:
-```
+```python runnable
 # Define a word:
 word = "HELLO"
 
@@ -35,7 +35,7 @@ The Vigenère cipher is a method of encrypting alphabetic text where each letter
 a different Caesar cipher, whose increment is determined by the corresponding letter of another text, the key.
 
 Let's write the program:
-```
+```python runnable
 # Define a word:
 word = "HELLO"
 
